@@ -1,6 +1,6 @@
 black>=20.8b
 mkl
-numpy
+intel-numpy
 pytest
 pytest-mock
 pytest-cov
